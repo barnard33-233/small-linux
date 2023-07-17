@@ -1,0 +1,8 @@
+# utilities
+linux
+busybox
+
+# large files
+*.cpio.gz
+*.img
+mnt
